@@ -1,4 +1,4 @@
-public class App {
+public class App { 
     public static void main(String[] args) {
         boolean estuDiante = true ;
         //char letrAd = 'd';
