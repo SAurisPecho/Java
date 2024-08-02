@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ScannerOperadores {
+public class Clase2ScannerOperadores {
 
     public static void main(String[] args) {
         // //ACTIVIDAD
