@@ -14,7 +14,7 @@ public class CalculoFactorial {
                 numeros.add(i);
             }
 
-            int resultado = numeros.get(0); // Inicializa resultado con el primer número de la lista 
+            int resultado = numeros.get(0); // Inicializa resultado con el valor del primer número de la lista 
             int i = 1;
             do {
                 resultado *=  numeros.get(i);  //Multiplica el valor actual de resultado por el siguiente número en la lista

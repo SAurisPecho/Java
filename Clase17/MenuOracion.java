@@ -63,13 +63,13 @@ public class MenuOracion {
                         boolean encontrado = false;
                         for (int i = 0; i < palabrs.length; i++) {
                             if (palabrs[i].equals(palabraBuscada)) {
-                                System.out.println("La palabra \"" + palabraBuscada + "\" fue encontrada en la posición " + (i + 1) + ".");
+                                System.out.println("La palabra " + palabraBuscada + " fue encontrada en la posición " + (i + 1) + ".");
                                 encontrado = true;
                                 break;
                             }
                         }
                         if (!encontrado) {
-                            System.out.println("La palabra \"" + palabraBuscada + "\" no fue encontrada en la oración.");
+                            System.out.println("La palabra " + palabraBuscada + " no fue encontrada en la oración.");
                         }
                         break;
                     case 7:
